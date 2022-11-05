@@ -1,0 +1,14 @@
+C:\Users\hasan\Desktop\YazılımDersi\C#\Engin Demiroğ\ReCapProject\ReCapProject\ReCapProject\bin\Debug\netcoreapp3.1\ReCapProject.exe
+C:\Users\hasan\Desktop\YazılımDersi\C#\Engin Demiroğ\ReCapProject\ReCapProject\ReCapProject\bin\Debug\netcoreapp3.1\ReCapProject.deps.json
+C:\Users\hasan\Desktop\YazılımDersi\C#\Engin Demiroğ\ReCapProject\ReCapProject\ReCapProject\bin\Debug\netcoreapp3.1\ReCapProject.runtimeconfig.json
+C:\Users\hasan\Desktop\YazılımDersi\C#\Engin Demiroğ\ReCapProject\ReCapProject\ReCapProject\bin\Debug\netcoreapp3.1\ReCapProject.runtimeconfig.dev.json
+C:\Users\hasan\Desktop\YazılımDersi\C#\Engin Demiroğ\ReCapProject\ReCapProject\ReCapProject\bin\Debug\netcoreapp3.1\ReCapProject.dll
+C:\Users\hasan\Desktop\YazılımDersi\C#\Engin Demiroğ\ReCapProject\ReCapProject\ReCapProject\bin\Debug\netcoreapp3.1\ReCapProject.pdb
+C:\Users\hasan\Desktop\YazılımDersi\C#\Engin Demiroğ\ReCapProject\ReCapProject\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.csproj.AssemblyReference.cache
+C:\Users\hasan\Desktop\YazılımDersi\C#\Engin Demiroğ\ReCapProject\ReCapProject\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\Desktop\YazılımDersi\C#\Engin Demiroğ\ReCapProject\ReCapProject\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.AssemblyInfoInputs.cache
+C:\Users\hasan\Desktop\YazılımDersi\C#\Engin Demiroğ\ReCapProject\ReCapProject\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.AssemblyInfo.cs
+C:\Users\hasan\Desktop\YazılımDersi\C#\Engin Demiroğ\ReCapProject\ReCapProject\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\YazılımDersi\C#\Engin Demiroğ\ReCapProject\ReCapProject\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.dll
+C:\Users\hasan\Desktop\YazılımDersi\C#\Engin Demiroğ\ReCapProject\ReCapProject\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.pdb
+C:\Users\hasan\Desktop\YazılımDersi\C#\Engin Demiroğ\ReCapProject\ReCapProject\ReCapProject\obj\Debug\netcoreapp3.1\ReCapProject.genruntimeconfig.cache
